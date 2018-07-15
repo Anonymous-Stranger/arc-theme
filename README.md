@@ -1,8 +1,10 @@
 # Arc Theme
 
+This is a fork of https://github.com/horst3180/arc-theme
+
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Unity, Budgie, Pantheon, Xfce, MATE, etc.
 
-## Arc is available in three variants 
+## Arc is available in three variants
 
 ##### Arc
 
@@ -43,7 +45,7 @@ A non-transparent version of the theme is available here: [Arc Solid OBS repo](h
 
 ### Manual Installation
 
-To build the theme the follwing packages are required 
+To build the theme the follwing packages are required
 * `autoconf`
 * `automake`
 * `pkg-config` or `pkgconfig` for Fedora

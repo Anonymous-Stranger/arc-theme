@@ -1,0 +1,86 @@
+
+headerbar {
+
+  background-color: purple;
+
+  .csd & {  // Transparent header-bars only in csd windows
+    background-color: purple;
+  }
+
+  .maximized & {
+    background-color: purple;
+  }
+
+}
+
+/* App Switcher */
+.switcher-popup {
+  background-color: purple;
+}
+
+.switcher-list-item-container {
+  background-color: purple;
+}
+
+.switcher-list .item-box {
+  background-color: purple;
+}
+
+.switcher-list .item-box:outlined {
+  background-color: purple;
+}
+
+.switcher-list .item-box:selected {
+  background-color: purple;
+}
+
+.switcher-list .thumbnail-box {
+  background-color: purple;
+}
+
+.switcher-list .thumbnail {
+  background-color: purple;
+}
+
+.switcher-list .separator {
+  background-color: purple;
+}
+
+.switcher-arrow {
+  background-color: purple;
+}
+  .switcher-arrow:highlighted {
+    background-color: purple;
+  }
+
+.input-source-switcher-symbol {
+  background-color: purple;
+}
+
+/* Window Cycler */
+.cycler-highlight {
+  background-color: purple;
+}
+
+/* Workspace Switcher */
+.workspace-switcher-group {
+  background-color: purple;
+}
+
+.workspace-switcher {
+  background-color: purple;
+}
+
+.ws-switcher-active-up, .ws-switcher-active-down {
+  background-color: purple;
+}
+
+.ws-switcher-box {
+  background-color: purple;
+}
+
+.osd-window,
+.resize-popup,
+.switcher-list, .workspace-switcher-container {
+  background-color: purple;
+}
